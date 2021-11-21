@@ -109,7 +109,7 @@ For Ubuntu
  For Ubuntu 18.04>
   * Or use NVM(https://github.com/creationix/nvm) for debian/ubuntu.
  ```
-nvm install 11]
+nvm install 11
 source ~/.bashrc
 ```
 * [Redis](http://redis.io/) key-value store v2.6+ 
