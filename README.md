@@ -116,6 +116,10 @@ source ~/.bashrc
   * For Ubuntu: 
 ```
 sudo apt-get install redis-server
+sudo nano /etc/redis/redis.conf
+add supervised systemd
+sudo systemctl enable redis.service
+sudo systemctl start redis.service
  ```
  Dont forget to tune redis-server:
  ```
