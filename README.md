@@ -7,7 +7,7 @@ Usage
 For Ubuntu
 * build-essential
 * python
-* Coin daemon(s) (find the coin's repo and build latest version from source)
+* Coin daemon(s) https://github.com/The-GNTL-Project/gntl/releases
 * [Node.js](http://nodejs.org/) v11.0+
 
 ```
